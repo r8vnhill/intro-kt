@@ -1,0 +1,70 @@
+# Gradle
+.gradle
+**/build/
+!src/**/build/
+.gradle-task-name-cache
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Kotlin
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+replay_pid*
+.kotlin
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+.idea/runConfigurations/
+.idea/modules.xml
+.idea/workspace.xml
+
+# OS-specific
+.DS_Store
+.Trashes
+Thumbs.db
+ehthumbs.db
+Icon
+.fseventsd
+.Spotlight-V100
+*.stackdump
+
+# Linux
+*~
+.directory
+.fuse_hidden*
+.nfs*
+.Trash-*
+
+# Windows
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+Desktop.ini
+
+# Eclipse
+.project
+.classpath
+
+# Testing and coverage
+test-results/
+test-output/
+coverage/
+jacoco.exec
+
+# Node (if applicable)
+node_modules/
+dist/
+.cache/
