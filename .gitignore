@@ -68,3 +68,5 @@ jacoco.exec
 node_modules/
 dist/
 .cache/
+
+.vscode/
