@@ -1,5 +1,5 @@
 plugins {
-    alias(libs.plugins.kotlin.jvm)
+    id("jvm.conventions")
     application
 }
 
@@ -21,11 +21,9 @@ java {
 }
 
 application {
-    mainClass = "cl.ravenhill.App2Kt"
+    mainClass = "org.example.AppKt"
 }
 
 tasks.named<Test>("test") {
     useJUnitPlatform()
 }
-
-kotlin.compilerOptions.freeCompilerArgs.add("-Xwhen-guards")
