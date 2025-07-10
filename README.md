@@ -8,7 +8,7 @@
 [![Status](https://img.shields.io/badge/status-stable-brightgreen)]()
 [![DIBS Site](https://img.shields.io/badge/website-dibs.ravenhill.cl-purple)](https://dibs.ravenhill.cl)
 
-**`intro-kt`** is a minimal and pragmatic Kotlin project that accompanies lessons from the course [Diseño e Implementación de Bibliotecas de Software (DIBS)](https://dibs.ravenhill.cl). It provides real, runnable code examples to support foundational Kotlin topics.
+**`intro-kt`** is a pragmatic Kotlin project that accompanies lessons from the course [Diseño e Implementación de Bibliotecas de Software (DIBS)](https://dibs.ravenhill.cl). It provides real, runnable code examples to support foundational Kotlin topics.
 
 > [!note]
 > While the course is taught in Spanish, **all code and project content is in English** to encourage accessibility and reuse.
@@ -29,6 +29,8 @@ This project complements the following lesson(s) from the DIBS site:
 
 1. 📘 **[Variable Declarations](https://dibs.ravenhill.cl/docs/type-fundamentals/basics/variables/kt)**  
    Covers `val` and `var`, property accessors, compile-time constants, and visibility control for setters.
+2. 📘 **[Cycles and Ranges](https://dibs.ravenhill.cl/docs/type-fundamentals/basics/cycles/kt)**  
+   Using loops and ranges in Kotlin with an expressive, safe, and readable approach to iteration, containment checks, and repetition.
 
 More lessons will be linked as the course progresses.
 
