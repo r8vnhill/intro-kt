@@ -27,10 +27,9 @@
 
 This project complements the following lesson(s) from the DIBS site:
 
-1. 📘 **[Variable Declarations](https://dibs.ravenhill.cl/docs/type-fundamentals/basics/variables/kt)**  
-   Covers `val` and `var`, property accessors, compile-time constants, and visibility control for setters.
-2. 📘 **[Cycles and Ranges](https://dibs.ravenhill.cl/docs/type-fundamentals/basics/cycles/kt)**  
-   Using loops and ranges in Kotlin with an expressive, safe, and readable approach to iteration, containment checks, and repetition.
+1. 📘 **[Function Declarations](https://dibs.ravenhill.cl/docs/type-fundamentals/basics/functions/kt)**
+2. 📘 **[Variable Declarations](https://dibs.ravenhill.cl/docs/type-fundamentals/basics/variables/kt)**
+3. 📘 **[Cycles and Ranges](https://dibs.ravenhill.cl/docs/type-fundamentals/basics/cycles/kt)**
 
 More lessons will be linked as the course progresses.
 
